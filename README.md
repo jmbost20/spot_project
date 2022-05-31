@@ -1,7 +1,6 @@
 # spot_project
 
 
-### Github test1
 
 ## Part 1- Descriptive Stats
 
