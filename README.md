@@ -2,6 +2,10 @@
 
 ## Part 1- Descriptive Stats
 
+* Add Variables
+* Analysis and plotting with matplotlib
+* Style Guide
+
 
 ## Part 2 - Modelling
 
